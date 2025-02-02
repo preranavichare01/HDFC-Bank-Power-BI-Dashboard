@@ -10,14 +10,14 @@ This repository contains a **comprehensive Power BI dashboard** designed for **H
 
 ## Key Insights from the Dashboard:
 
-### **Financial Overview**:
+### **Dashboard Overview**:
 - **Total Revenue**: ₹4M | **Total Transactions**: 924 | **Avg Revenue per Transaction**: ₹4.22K
 - **Declining Transaction Value**: ₹1.46M (2020) → ₹1M (2022
 - **Total Balance**: ₹17.57M  
 - **Total Loan Amount**: ₹18.45M  
 - **Average Interest Rate**: 2.68%
 
-### **Customer & Transaction Analysis**:
+### **Customer Analysis**:
 - **Top City for Transactions**: Tokyo | **Most Used Account Type**: Savings  
 - **Risk Segmentation**: Based on credit scores and transaction trends  
 - **Customer Insights**: 
@@ -26,7 +26,7 @@ This repository contains a **comprehensive Power BI dashboard** designed for **H
     - **Max Account Age**: The oldest account is 60 years
     - **Account Growth by Sector**: *Technology* sector leads at ₹187M, followed by *Retail* (₹134M) and *Finance* (₹92M).
 
-### **Loan & Credit Analysis**:
+### **Loan Analysis**:
 - **Total Loan Amount**: ₹3.57M | **Average Interest Rate**: 2.55%
 - **Loan Amount by Sector**: *Finance, Retail, and Technology* lead in loan disbursements
 - **Loan Default Risk by Age Group**: Older customers show lower default rates  
